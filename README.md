@@ -1,4 +1,3 @@
-# price grid
+# Price Grid Project
 
-For my web design class first midterm exam I developed a page in css and html, based on a already existing design.
-To best experience the design it was developed with a 1920 * 1080 resolution.
+For my web application design I had to replicate a price grid image without using flex or grid
